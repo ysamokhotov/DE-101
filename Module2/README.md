@@ -38,4 +38,4 @@ group by person
 order by 4 desc
 ```
 ## **Нарисовать модель данных в SQLdbm**
-
+![Image alt](https://github.com/ysamokhotov/DE-101/blob/main/Module2/pics/db_model.JPG)
