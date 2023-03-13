@@ -1,0 +1,2 @@
+# **DE-101**
+Здесь будет лежать домашнее задание по прохождению курса <a href="https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md">Datalearn: Getting Started with Analytics and Data Engineering</a>.
