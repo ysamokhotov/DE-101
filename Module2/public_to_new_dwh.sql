@@ -147,3 +147,6 @@ insert into new_dwh.returned
 select distinct order_number, returned::boolean
 from new_dwh.orders o
 inner join public.returns r on r.order_id = o.order_id;
+
+select *
+from new_dwh.orders
