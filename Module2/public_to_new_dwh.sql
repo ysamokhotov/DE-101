@@ -1,4 +1,4 @@
---create schema new_dwh
+create schema new_dwh
 
 --customers
 
