@@ -40,4 +40,4 @@ order by 4 desc
 ## **Нарисовать модель данных в SQLdbm**
 ![Image alt](https://github.com/ysamokhotov/DE-101/blob/main/Module2/pics/db_model.JPG)
 
-В модели я выделил несколько отдельных сущностей: информация по клиентам, информация по шиппингу, гео, данные о продуктах, заказы и отдельно заказы с возвратом. [Скрипт модели]('https://github.com/ysamokhotov/DE-101/blob/main/Module2/public_to_new_dwh.sql').
+В модели я выделил несколько отдельных сущностей: информация по клиентам, информация по шиппингу, гео, данные о продуктах, заказы и отдельно заказы с возвратом. <a href="https://github.com/ysamokhotov/DE-101/blob/main/Module2/public_to_new_dwh.sql">Скрипт модели</a>.
