@@ -2,7 +2,7 @@
 ## **Установка БД**
 Установил локально базу PostgreSQL 15.
 ## **Загрузка даных в БД**
-Данные загружены базу с помощью python (pandas)
+<a href="https://github.com/ysamokhotov/DE-101/blob/main/Module2/data_upload_into_postgres_db.ipynb">Данные загружены базу с помощью python (pandas)</a>.
 ## **SQL запросы**
 1. Суммарные продажи по штатам, где общее количество заказов больше 10
 ```sql
