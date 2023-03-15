@@ -38,6 +38,13 @@ group by person
 order by 4 desc
 ```
 ## **Нарисовать модель данных в SQLdbm**
+
 ![Image alt](https://github.com/ysamokhotov/DE-101/blob/main/Module2/pics/db_model.JPG)
 
 В модели я выделил несколько отдельных сущностей: информация по клиентам, информация по шиппингу, гео, данные о продуктах, заказы и отдельно заказы с возвратом. <a href="https://github.com/ysamokhotov/DE-101/blob/main/Module2/public_to_new_dwh.sql">Скрипт модели</a>.
+## **Создать базу данных в облаке**
+Создал staging БД в Clickhouse, загружал локальные таблицы через импорт csv.
+
+![Image alt](https://github.com/ysamokhotov/DE-101/blob/main/Module2/pics/clickhouse_db.JPG)
+
+<a href="https://github.com/ysamokhotov/DE-101/blob/main/Module2/clickhouse_connection_and_queries.ipynb">Сделал несколько аналитических запросов к БД</a>.
