@@ -52,6 +52,6 @@ order by 4 desc
 ## **Сделать дэшборд в BI**
 Для создания дашборда использовал Power BI (поскольку он для меня наиболее привычен) подключался к Clickhouse базе данных через OBDC протокол. 
 
-<a href="https://github.com/ysamokhotov/DE-101/blob/main/Module2/clickhouse_connection_and_queries.ipynb">PBI файл дашборда</a>.
+<a href="https://github.com/ysamokhotov/DE-101/blob/main/Module2/sample_superstore_dashboard.pbix">PBI файл дашборда</a>.
 
-![Image alt](https://github.com/ysamokhotov/DE-101/blob/main/Module2/pics/clickhouse_db.JPG)
+![Image alt](https://github.com/ysamokhotov/DE-101/blob/main/Module2/pics/pbi_dashboard.JPG)
